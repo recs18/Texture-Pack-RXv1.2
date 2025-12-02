@@ -1,7 +1,7 @@
 # Texture Pack RX para KoGaMa Launcher (2025)
 
 Bienvenido, este es mi Texture Pack para el juego KoGaMa, especialmente, para **KoGaMa Launcher**.
-Este Texture Pack es para las versiones actuales del juego **(05/25 y 08-09/25)**. Tiene *modificaciones de algunas texturas, audios y textos*.
+Este Texture Pack es para las versiones actuales del juego **(05/25 y 09/25)** actualizado el 1 de Diciembre 2025. Tiene *modificaciones de algunas texturas, audios y textos*.
 Este proyecto fue creado en 2023 y **actualizado** hasta 2025.
 
 ## VISTA PREVIA:
