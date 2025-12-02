@@ -32,10 +32,10 @@ Acá te dejo un vídeo tutorial breve de como equipar el Texture Pack (YouTube)
 
 Descarga la versión más actual del Texture Pack (incluye versión, .assets y .resources necesarios + un archivo .bat que automatiza el proceso de instalación).
 
-- PARA KOGAMA LAUNCHER VERSION MÁS RECIENTE:
+- PARA KOGAMA LAUNCHER VERSION MÁS RECIENTE COMPATIBLE:
   
-[Descargar la última versión](https://github.com/LRex18/Texture-Pack-RXv1.2/raw/refs/heads/main/2025-08-13TexturePackRXv1.2Standalone.zip?download=)
+[Descargar la última versión](https://github.com/recs18/Texture-Pack-RXv1.2/raw/refs/heads/main/2025-09-24MaintenanceTexturePackRX.zip?download=)
 
-- PARA KOGAMA LAUNCHER VERSION MAYO:
+- PARA KOGAMA LAUNCHER VERSION MAYO 2025:
 
-[Descargar la última versión](https://github.com/LRex18/Texture-Pack-RXv1.2/raw/refs/heads/main/2025-05-07TexturePackRXv1.zip?download=)
+[Descargar la última versión](https://github.com/recs18/Texture-Pack-RXv1.2/raw/refs/heads/main/2025-05-07TexturePackRXv2Standalone.zip?download=)
